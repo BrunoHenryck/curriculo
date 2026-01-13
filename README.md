@@ -8,36 +8,36 @@
 <b>Linkedin:</b> www.linkedin.com/in/bruno-henryck/<br>
 <b>Github:</b> https://github.com/BrunoHenryck<br>
 
-SOBRE<br>
+<h3>SOBRE</h3><br>
  Sou um jovem apaixonado pela tecnologia com um amplo conhecimento na área de TI,<br> 
  estou agora migrando para a área de desenvolvedor WEB para novas oportunidades,<br> 
  tenho conhecimento em HTML, CSS e JS, estou a procura de realizar<br> 
  o meu sonho de criança que e trabalhar na área de programação!
 
-EXPERIÊNCIA PROFISSIONAL<br>
-Assistente de TI - Estágio Superior - Campo Nutricão<br>
+<h3>EXPERIÊNCIA PROFISSIONAL</h3><br>
+<b>Assistente de TI</b> - Estágio Superior - Campo Nutricão<br>
 (01/2025 – 07/2025) <br>
 • Suporte técnico a usuários em hardware, software e redes.<br>
 • desenvolvimento de softwares para facilitação de tarefas simples.<br> 
 • Implantação de ferramentas (GLPI, Moodle, Zabbix,).<br>                                                     
-Auxiliar de TI - Estágio Ensino Médio – Campo Nutricão <br>
+<b>Auxiliar de TI</b> - Estágio Ensino Médio – Campo Nutricão <br>
 (01/2024 – 12/2024)  <br>
 • Suporte técnico em sistemas, internet e dispositivos de rede.<br>
 • Instalação e configuração de servidores Linux e Ubuntu Server.<br>
 • Conhecimento em implementação de servidores para linhas de produção.<br> 
-Auxiliar de TI - Campo Nutrição (Jovem Aprendiz)<br>                                                                                                                       (06/2021 – 04/2023)<br>        
+<b>Auxiliar de TI</b> - Campo Nutrição (Jovem Aprendiz)<br>                                                                                                                (06/2021 – 04/2023)<br>        
 • Atendimento e suporte técnico em computadores, impressoras e rede.<br> 
 •Formatação e instalação de softwares em estações de trabalho.<br>
 • Participação na organização de equipamentos de TI.<br>	
 
-FORMAÇÃO<br>
-• Tecnólogo em Análise e Desenvolvimento de Sistemas (Em Andamento) - Faculdade Católica
+<h3>FORMAÇÃO</h3><br>
+• <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b> (Em Andamento) - Faculdade Católica
 Paulista<br>
 (Estudei engenharia de software, Banco de Dados, Programação em C# e fundamento de redes e computadores.)<br>
-•Técnico em Informática – Colégio Estadual Ana Nastre de Melo<br>
+•<b>Técnico em Informática</b> – Colégio Estadual Ana Nastre de Melo<br>
 (Estudei logica de programação, raciocínio logico, redes, Como funciona a internet e algorítimo.)<br>
 
-CONHECIMENTOS E HABILIDADES<br>
+<h3>CONHECIMENTOS E HABILIDADES</h3><br>
     • Conhecimento em HTML, CSS e JS<br> 
     • Conhecimento em redes<br>
     • Facilidade em manutenção de softwares<br>
@@ -45,7 +45,7 @@ CONHECIMENTOS E HABILIDADES<br>
     • Agilidade e responsabilidade<br>
     • Facilidade para aprender novas tarefas<br>
 
-Cursos e Certificações<br>
+<h3>Cursos e Certificações</h3><br>
 • Linux [40h]<br>
 • Redes de Computadores [20h]<br>
 • Certificado Rockeatseat (HTML,CSS, JS, Git e Github)<br>
