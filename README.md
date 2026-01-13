@@ -13,7 +13,7 @@
  estou agora migrando para a área de desenvolvedor WEB para novas oportunidades,<br> 
  tenho conhecimento em HTML, CSS e JS, estou a procura de realizar<br> 
  o meu sonho de criança que e trabalhar na área de programação!
-
+<hr>
 <h3>EXPERIÊNCIA PROFISSIONAL</h3><br>
 <b>Assistente de TI</b> - Estágio Superior - Campo Nutricão<br>
 (01/2025 – 07/2025) <br>
@@ -29,14 +29,14 @@
 • Atendimento e suporte técnico em computadores, impressoras e rede.<br> 
 •Formatação e instalação de softwares em estações de trabalho.<br>
 • Participação na organização de equipamentos de TI.<br>	
-
+<hr>
 <h3>FORMAÇÃO</h3><br>
 • <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b> (Em Andamento) - Faculdade Católica
 Paulista<br>
 (Estudei engenharia de software, Banco de Dados, Programação em C# e fundamento de redes e computadores.)<br>
 •<b>Técnico em Informática</b> – Colégio Estadual Ana Nastre de Melo<br>
 (Estudei logica de programação, raciocínio logico, redes, Como funciona a internet e algorítimo.)<br>
-
+<hr>
 <h3>CONHECIMENTOS E HABILIDADES</h3><br>
     • Conhecimento em HTML, CSS e JS<br> 
     • Conhecimento em redes<br>
@@ -44,7 +44,7 @@ Paulista<br>
     • Conhecimento em Banco de Dados<br>
     • Agilidade e responsabilidade<br>
     • Facilidade para aprender novas tarefas<br>
-
+<hr>
 <h3>Cursos e Certificações</h3><br>
 • Linux [40h]<br>
 • Redes de Computadores [20h]<br>
