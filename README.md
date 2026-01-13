@@ -1,4 +1,4 @@
-# currículo
+# Currículo
 
 <h3>DADOS PESSOAIS</h3><br>
 <b>Nome Completo:</b> Bruno Henryck Pereira de Sousa<br> 
@@ -7,7 +7,7 @@
 <b>E-mail:</b> Brunohenryck444@gmail.com<br>
 <b>Linkedin:</b> www.linkedin.com/in/bruno-henryck/<br>
 <b>Github:</b> https://github.com/BrunoHenryck<br>
-
+<hr>
 <h3>SOBRE</h3><br>
  Sou um jovem apaixonado pela tecnologia com um amplo conhecimento na área de TI,<br> 
  estou agora migrando para a área de desenvolvedor WEB para novas oportunidades,<br> 
