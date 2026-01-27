@@ -33,7 +33,7 @@
 <h3>FORMAÇÃO</h3><br>
 • <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b> (Em Andamento) - Faculdade Católica
 Paulista<br>
-(Estudei engenharia de software, Banco de Dados, Programação em C# e fundamento de redes e computadores.)<br>
+(Estudando engenharia de software, Banco de Dados, Programação em C# e fundamento de redes e computadores.)<br>
 •<b>Técnico em Informática</b> – Colégio Estadual Ana Nastre de Melo<br>
 (Estudei logica de programação, raciocínio logico, redes, Como funciona a internet e algorítimo.)<br>
 <hr>
